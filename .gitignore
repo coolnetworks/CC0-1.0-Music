@@ -1,0 +1,15 @@
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Large generated files
+analysis_results.json
+analysis_results_v2.json
+category_model.pkl
+
+# Scraper state
+scrape_progress.json
+scraped_metadata.json
